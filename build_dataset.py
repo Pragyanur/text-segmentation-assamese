@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Build an Assamese linear text segmentation dataset from the aswiki dump.
 

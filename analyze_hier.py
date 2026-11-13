@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Statistics for AsParaSeg-H (article-level, 3-way labels).
 
 Also prints the pos_weight values to hand straight to hierarchical_loss(),

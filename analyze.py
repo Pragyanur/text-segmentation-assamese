@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Statistics and quality report for the Assamese segmentation dataset."""
 import json
 import os

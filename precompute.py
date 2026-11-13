@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Encode every sentence once with MuRIL and cache the vectors.
 

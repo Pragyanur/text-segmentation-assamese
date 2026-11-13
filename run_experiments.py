@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Runs the full ablation queue on a single GPU, sequentially, and keeps going
 even if one run fails. Pure Python (subprocess) -- no bash, no tmux needed.

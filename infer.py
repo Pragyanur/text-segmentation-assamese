@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Run inference with a trained AsParaSeg / AsParaSeg-H segmenter.
 

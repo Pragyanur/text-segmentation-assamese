@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Build AsParaSeg-H -- the ARTICLE-level, three-way hierarchical dataset.
 
