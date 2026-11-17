@@ -1,4 +1,4 @@
-# Hierarchical Linear Text Segmentation for Assamese
+# Text Segmentation for Assamese
 
 Code, data-building scripts and paper for text segmentation in Assamese:
 splitting a document into contiguous segments of closely related sentences.
